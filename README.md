@@ -7,3 +7,4 @@ This repo is dedicated to my Machine Learning course in my college.
 - Data Manupilation using *Pandas*
 - Arrays using *Numpy*
 - Data Visualization using *Matplotlib*
+- PCA Implementation (Principal Axis Component)
