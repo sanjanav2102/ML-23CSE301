@@ -8,3 +8,5 @@ This repo is dedicated to my Machine Learning course in my college.
 - Arrays using *Numpy*
 - Data Visualization using *Matplotlib*
 - PCA Implementation (Principal Axis Component)
+- PCA and varience
+  
